@@ -3,3 +3,5 @@ Second day content
 
 HTML is a markup language that we use to create web pages.
 CSS is a style sheet language that we use to style web pages.
+
+JavaScript
